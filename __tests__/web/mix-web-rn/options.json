@@ -1,0 +1,5 @@
+{
+  "allowModules": ["react-native", "./rn/*"],
+  "blockModules": ["./web/*"],
+  "tailwindConfigPath": "./mix-web-rn/tailwind.config.js"
+}
