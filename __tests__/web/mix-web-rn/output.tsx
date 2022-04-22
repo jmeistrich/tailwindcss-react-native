@@ -21,7 +21,7 @@ export function Test() {
           tailwindcssReactNative: "font-bold",
         }}
       >
-        Do not transform
+        Hello world!
       </TestComponent>
       <WebComponent className="font-bold">Do not transform</WebComponent>
     </TailwindProvider>
